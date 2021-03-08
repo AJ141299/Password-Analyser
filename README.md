@@ -10,4 +10,4 @@ The script hashes the passwords from passwords.txt file to SHA1 hashed. Afterwar
 - Add the passwords, separated by a new line, in the passwords.txt file.
 - Run the checkmypass.py file and an output will be displayed in command line/terminal
 
-## End
+## End 
