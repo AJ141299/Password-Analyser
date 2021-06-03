@@ -8,6 +8,6 @@ Few days ago, I learnt that one of the websites that I registered on had been br
 The script hashes the passwords from passwords.txt file to SHA1 hashed. Afterwards, only the first five characters of this hashed password is sent over to API, which helps achieve k-anonymity. The API sends back all the matched hashed passwords and the number of times they were found. The received list of hashed passwords is traversed through to find a match for our original password. After all the passwords have been checked, the passwords.txt is cleared.
 ## How To Use
 - Add the passwords, separated by a new line, in the passwords.txt file.
-- Run the checkmypass.py file and an output will be displayed in command line/terminal
+- Run the checkmypass.py file and an output will be displayed in command line/terminal 
 
 ## End 
