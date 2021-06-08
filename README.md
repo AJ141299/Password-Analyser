@@ -1,4 +1,4 @@
-# Password Checker
+# Password Analyser
 
 ## Screenshots
 ![](Screenshot/Screenshot.PNG)
